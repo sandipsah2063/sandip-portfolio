@@ -1,5 +1,5 @@
 const words = [
-    " Data Science ",
+    " Data Scientist ",
     " Data Analytics ",
     " UI/UX Designer ",
     " Business Analytics "
