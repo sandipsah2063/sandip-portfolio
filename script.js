@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 const words = [
     " Data Analytics ",
     " UI/UX Designer ",
@@ -83,7 +83,7 @@ typeEffect();
 
 
                                                           
-=======
+
 const words = [
     " Data Scientist ",
     " Data Analytics ",
@@ -167,5 +167,3 @@ typeEffect();
 
 
 
-                                                          
->>>>>>> 7f2087b206af36db20aae40fafa4cb7952534d64
